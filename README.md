@@ -1,293 +1,149 @@
-# Awesome-Centralized-Cloud-Backup-Recovery
-
 # Awesome-Centralized-Cloud-Backup-Recovery ☁️ 🛡️
 
-
-
 <p align="center">
-
   <img src="assets/banner.svg" alt="Awesome Centralized Cloud Backup Recovery Banner" width="100%">
-
 </p>
-
-
 
 <p align="center">
-
-  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
-
-  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-
-  <a href="https://github.com/ishandutta2007/Awesome-Centralized-Cloud-Backup-Recovery"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Centralized-Cloud-Backup-Recovery?style=social" alt="GitHub_Stars"/></a>
-
-  <a href="https://github.com/ishandutta2007/Awesome-Centralized-Cloud-Backup-Recovery/fork"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Centralized-Cloud-Backup-Recovery?style=social" alt="GitHub Forks"/></a>
-
-  <a href="https://github.com/ishandutta2007/Awesome-Centralized-Cloud-Backup-Recovery/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Centralized-Cloud-Backup-Recovery?color=blue" alt="License"/></a>
-
-  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
-
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a><a href="https://github.com/ishandutta2007/Awesome-Centralized-Cloud-Backup-Recovery"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Centralized-Cloud-Backup-Recovery?style=social" alt="GitHub_Stars"/></a><a href="https://github.com/ishandutta2007/Awesome-Centralized-Cloud-Backup-Recovery/fork"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Centralized-Cloud-Backup-Recovery?style=social" alt="GitHub Forks"/></a><a href="https://github.com/ishandutta2007/Awesome-Centralized-Cloud-Backup-Recovery/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Centralized-Cloud-Backup-Recovery?color=blue" alt="License"/></a><a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
-
-
 
 ---
 
+## 🌟 Centralized Cloud Backup & Disaster Recovery Ecosystem
 
+**Curated Directory of Commercial Enterprise Data Protection Platforms & Open-Source Backup Frameworks** 🚀
 
-## 🌟 Top Centralized Cloud Backup & Recovery Ecosystem
-
-
-
-**Curated List of Commercial Data Protection Platforms & Open-Source Backup Frameworks**  
-
-*Focused on Cloud-Native Backup, Ransomware Recovery, Immutable Storage, Deduplication & Self-Hosted Backup Servers*
-
-
+*Focused on Cloud-Native Backup, Ransomware Cyber Recovery, Immutable Storage, Deduplication, and Self-Hosted Enterprise Backup Servers.*
 
 **Last updated: October 2026** 📅
 
-
-
 ---
-
-
 
 ### 📌 Overview & SEO Summary
 
-Welcome to the ultimate curated directory of **centralized cloud backup and recovery platforms**, **open-source backup engines**, and **cyber-resilient data protection frameworks**. Whether you are looking for enterprise-grade commercial solutions (such as *Veeam*, *Commvault*, *Rubrik*, and *Cohesity*), or self-hostable open-source alternatives (like *Bacula*, *BorgBackup*, and *nxs-backup*), this list covers category leaders, SaaS-first architectures, and privacy-respecting backup infrastructure.
+Welcome to the definitive curated index of **centralized cloud backup and disaster recovery solutions**, **open-source backup engines**, and **cyber-resilient data protection frameworks**. Modern cloud and hybrid enterprise infrastructure requires robust data backup, point-in-time recovery (PITR), air-gapped immutable storage, and zero-trust security to defend against ransomware, accidental deletion, and hardware outages.
 
-
+Whether evaluating enterprise SaaS vendors (such as *Rubrik*, *Veeam*, *Commvault*, *AWS Backup*, and *Cohesity*) or self-hosted open-source software (like *Restic*, *Duplicati*, *Kopia*, *BorgBackup*, and *Velero*), this guide offers verifiable pricing, free tier details, company valuations, and real-time GitHub repository statistics.
 
 ---
-
-
 
 ## 📑 Table of Contents
 
-- [🏢 SaaS & Commercial Platforms](#-saas--commercial-platforms)
-
-- [🔓 Open-Source GitHub Projects](#-open-source-github-projects)
-
+- [🏢 SaaS & Commercial Enterprise Platforms](#-saas--commercial-enterprise-platforms)
+- [🔓 Open-Source GitHub Backup Projects](#-open-source-github-backup-projects)
 - [🛠️ How to Contribute](#%EF%B8%8F-how-to-contribute)
-
-- [📊 Star History](#-star-history)
-
+- [⭐ Star History](#-star-history)
 - [🤝 Support & Sponsorship](#-support--sponsorship)
-
 - [⚠️ Disclaimer](#%EF%B8%8F-disclaimer)
 
-
-
 ---
 
+## 🏢 SaaS & Commercial Enterprise Platforms
 
+> 📊 **Market Dynamics & Estimated Sector Size**: The global enterprise cloud data backup and disaster recovery market is estimated at **~$14.5 Billion in 2024 and projected to reach ~$25.8 Billion by 2030 (9.8% CAGR)**. The sector is **moderately fragmented**, balancing legacy virtualization giants (*Veeam*, *Commvault*), cyber-recovery leaders (*Rubrik*, *Cohesity*), cloud-native SaaS protection platforms (*AWS Backup*, *Druva*, *HYCU*), and self-hosted open-source tools.
 
-## 🏢 SaaS / Commercial Platforms
+*Sorted by Company Size / Market Cap / Valuation (Descending)* 📉
 
-
-
-The enterprise backup and recovery market is crowded around a similar core workflow: protect data, keep immutable copies, and restore fast after an outage or ransomware attack . Pricing models vary dramatically. Rubrik and Cohesity use appliance-based or software licensing with per-TB subscriptions, Druva operates as pure SaaS billed per TB per month after deduplication , and HYCU uses a per-user model with customer-owned storage . Vendr data shows multi-year commitments typically reduce per-TB rates, and buyers who negotiate flexible data tiers avoid mid-contract cost surprises .
-
-
-
-| SaaS / Commercial Platform | Company / Owner | Valuation / Market Cap | Standard Edition Starting Price | Free Tier / Free Trial Limits | Description |
-
+| 🏢 SaaS / Commercial Platform | 🏢 Company / Owner | 💰 Valuation / Market Cap | 💲 Standard Edition Starting Price | 🎁 Free Tier / Free Trial Limits | 📝 Description & Key Capabilities |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-
-| **[Veeam Data Platform](https://www.veeam.com/)** 🟢 | Veeam Software | ~$5 Billion (Est.) | Custom enterprise; software licensing more accessible than appliances | 30-day free trial available | **Virtualization-first backup** — 15+ years of vSphere and Hyper-V heritage. Software-led architecture with deployment flexibility. Strong fit for virtualization-heavy enterprises valuing operational flexibility over appliance simplicity . |
-
-| **[Commvault Cloud](https://www.commvault.com/)** 🔵 | Commvault Systems | ~$4 Billion (Public) | Custom enterprise quote | Free trial available | **Mature enterprise backup** — Cleanroom Recovery isolates restoration to prevent ransomware reintroduction during recovery. Extensive compliance reporting. Best for established Commvault customers extending into cyber recovery . |
-
-| **[Druva](https://www.druva.com/)** ☁️ | Druva Inc. | Private | Per TB/month after deduplication; Business, Enterprise, Elite tiers | Cloud Free tier; enterprise custom quote | **Pure SaaS data protection** — No customer-managed infrastructure. Credit model: 1 credit = 1 TB compressed/deduplicated data stored for 1 month . Strong fit for cloud-first organizations. Egress fees can add 5–15% to total cost for restore-heavy environments . |
-
-| **[Rubrik Security Cloud](https://www.rubrik.com/)** 🟣 | Rubrik Inc. | ~$6.4x Revenue Multiple | Per-TB subscription; appliance or cloud | No free tier; demo available | **Enterprise data security platform** — SaaS control plane with data plane on appliances or Rubrik Cloud Vault. Air-gapped immutable backups. Ransomware detection and recovery orchestration. Built for large hybrid enterprises . |
-
-| **[Cohesity Data Cloud](https://www.cohesity.com/)** 🟠 | Cohesity (Merged with Veritas NetBackup) | ~8.4x Revenue Multiple | Software: ~$150–$400/TB/year; appliance or managed service | Free trial available | **On-premises-heavy consolidation** — SpanFS scale-out file system runs backup, file shares, and analytics on same system. Instant mass restore for large VM fleets. After NetBackup merger, protects AWS EC2, RDS, and S3 . |
-
-| **[Clumio (by Commvault)](https://www.commvault.com/clumio/)** 🎯 | Commvault | ~$4 Billion | S3: $0.025/GiB-month + $1.50/million managed objects; EC2: $0.045/GiB-month  | Free trial available | **AWS-native backup as a service** — Consumption-based pricing by workload. S3 Backtrack for object-level rollback. Archive tier at $0.01/GiB-month with 6-month minimum retention . |
-
-| **[HYCU](https://www.hycu.com/)** 🧬 | HYCU Inc. | Private | Per user/month: Atlassian $4, M365 $2.25, DevOps $4  | 14-day free trial | **SaaS and hybrid backup** — Writes backups to storage you own (AWS, GCP, Wasabi). Per-user pricing is software only; you carry storage and egress costs . Agentless architecture. Purpose-built for Nutanix, Google Cloud, and Azure . |
-
-| **[Acronis Cyber Protect](https://www.acronis.com/)** 🛡️ | Acronis International | Private | Per workload/GB; custom enterprise | Free trial available | **Backup + cybersecurity integration** — AI-driven anti-malware built into backup agent. ~1% CPU usage in tests, making it ideal when backup software must not slow down servers . |
-
-| **[AWS Backup](https://aws.amazon.com/backup/)** ☁️ | Amazon | ~$2.0 Trillion | $0.01/GB/month (warm storage); $0.095/GB (cold)  | Free tier for some features | **AWS-native centralized backup** — Fully managed policy-based backup across EBS, RDS, DynamoDB, EFS, and Storage Gateway. Pay-as-you-go with no upfront costs . |
-
-| **[Bacula Systems Enterprise](https://www.baculasystems.com/)** 🏢 | Bacula Systems SA | Private | Custom enterprise licensing | Community Edition free (AGPLv3) | **Enterprise-grade open-core backup** — Shares core engine with Bacula Community but adds deduplication, multi-cloud targets, agentless snapshot backup, and professional support . |
-
-
+| **[AWS Backup](https://aws.amazon.com/backup/)** ☁️ | Amazon Inc. | ~$2.0 Trillion (Market Cap) | $0.05 per GB-month (EBS warm backup); $0.01 per GB-month (EFS cold archive) | AWS Free Tier includes 20 GB of backup storage for EFS per month for 12 months | **AWS-native centralized backup** — Fully managed policy-based data protection across EBS, RDS, DynamoDB, EFS, S3, and Storage Gateway with cross-region immutable vault support. |
+| **[Rubrik Security Cloud](https://www.rubrik.com/)** 🟣 | Rubrik Inc. | ~$6.5 Billion (Valuation / Public) | ~$200 per TB/year software subscription (~$16.67/TB-month starting tier) | 30-day Enterprise Free Trial with up to 10 TB backup capacity and full Ransomware Investigation | **Enterprise data security platform** — Zero-trust SaaS control plane with air-gapped immutable backups, automated ransomware threat hunting, and rapid cyber recovery orchestration. |
+| **[Veeam Data Platform](https://www.veeam.com/)** 🟢 | Veeam Software | ~$5.0 Billion (Valuation) | ~$180 per workload license/year ($1,800/year for 10-workload VUL bundle) | Veeam Community Edition (Free forever for up to 10 VMs/workloads with full backup capabilities) | **Virtualization & cloud backup benchmark** — Industry leader for VMware vSphere, Hyper-V, AWS, Azure, and Kubernetes data protection with instant VM recovery. |
+| **[Commvault Cloud](https://www.commvault.com/)** 🔵 | Commvault Systems | ~$4.2 Billion (Market Cap) | ~$1.00 per VM/month or $0.05 per GB-month for enterprise cloud backup | 30-day full-featured free trial with 1 TB cloud backup capacity included | **Enterprise cyber resilience platform** — Cleanroom Recovery isolates restoration environments to eliminate malware re-infection during disaster recovery. |
+| **[Acronis Cyber Protect](https://www.acronis.com/)** 🛡️ | Acronis International | ~$3.5 Billion (Valuation) | $85 per workstation/year ($129 per server/year standard license) | 30-day fully functional free trial with 100 GB Cloud Storage included | **Integrated backup & endpoint security** — Combines AI-driven anti-ransomware protection, vulnerability assessment, and disk image backups in a unified agent. |
+| **[Cohesity Data Cloud](https://www.cohesity.com/)** 🟠 | Cohesity (Merged with Veritas NetBackup) | ~$3.0 Billion (Valuation) | ~$150 per TB/year software license for backup & recovery | 30-day virtual appliance free trial with 5 TB backup capacity | **Hyperconverged secondary storage** — Scale-out SpanFS architecture consolidating backups, target storage, file shares, and threat scanning on a unified data platform. |
+| **[Druva Resiliency Cloud](https://www.druva.com/)** ☁️ | Druva Inc. | ~$2.0 Billion (Valuation) | $2.50 per M365 user/month or $210 per TB/month deduplicated data | 30-day free trial with 1 TB deduplicated storage and full Microsoft 365/VM protection | **100% pure SaaS data protection** — Zero customer-managed infrastructure. Deduplication engine compresses footprint before writing to cloud storage. |
+| **[HYCU for Enterprise](https://www.hycu.com/)** 🧬 | HYCU Inc. | ~$500 Million (Valuation) | $2.25 per M365 user/month ($4.00 per Atlassian user/month) | 14-day free trial with unlimited backup jobs for up to 25 users/workloads | **Hybrid & SaaS multi-cloud backup** — Writes backups directly to customer-owned storage (AWS S3, GCP Cloud Storage, Wasabi) with agentless protection. |
+| **[Clumio (by Commvault)](https://www.commvault.com/clumio/)** 🎯 | Commvault / Clumio | ~$160 Million (Acquisition) | $0.025 per GiB-month for AWS S3 backups ($0.045/GiB-mo for EC2) | 14-day free trial with $500 AWS backup credit included | **AWS-native backup-as-a-service** — Provides instant granular S3 object recovery, EBS snapshot management, and automated continuous compliance logging. |
+| **[Bacula Systems Enterprise](https://www.baculasystems.com/)** 🏢 | Bacula Systems SA | ~$50 Million (Valuation) | ~$3,500 per year base subscription (unlimited data volume) | Bacula Community Edition is Free Forever (AGPLv3) with unlimited endpoints | **Enterprise-grade open-core backup** — Extends Bacula core engine with global deduplication, VMware/Hyper-V integration, cloud targets, and 24/7 enterprise SLA. |
 
 ---
 
+## 🔓 Open-Source GitHub Backup Projects
 
+*Sorted by GitHub Star Count (Descending)* ⭐
 
-## 🔓 Open-Source GitHub Projects
+- **[rclone](https://github.com/rclone/rclone)** [![Stars](https://img.shields.io/github/stars/rclone/rclone?style=social&color=white)](https://github.com/rclone/rclone/stargazers) 🌐  
+  **The Swiss Army knife of cloud storage sync**, MIT licensed. Command-line program to manage files on 70+ cloud storage providers (S3, Google Drive, OneDrive, B2, SFTP). Features bandwidth throttling, client-side encryption, chunked streaming, and mount capabilities. Frequently serves as the underlying transfer engine for custom backup scripts.
 
+- **[restic](https://github.com/restic/restic)** [![Stars](https://img.shields.io/github/stars/restic/restic?style=social&color=white)](https://github.com/restic/restic/stargazers) ⚡  
+  **Fast, secure, and efficient backup program**, BSD-2-Clause licensed. Single static binary with zero external dependencies. Features AES-256 client-side encryption, content-defined chunking (CDC) deduplication, and snapshot verification. Supports S3, Azure Blob, Google Cloud Storage, B2, SFTP, and local repositories.
 
+- **[Duplicati](https://github.com/duplicati/duplicati)** [![Stars](https://img.shields.io/github/stars/duplicati/duplicati?style=social&color=white)](https://github.com/duplicati/duplicati/stargazers) 🔒  
+  **Free backup client for encrypted cloud backups**, LGPL-2.1 licensed. Stores AES-256 encrypted, incremental, compressed backups across 20+ cloud storage targets. Includes a user-friendly Web UI, built-in scheduler, volume management, and integrity checks.
 
-*Sorted by GitHub_Stars_Count (Descending)* 🌟
+- **[Kopia](https://github.com/kopia/kopia)** [![Stars](https://img.shields.io/github/stars/kopia/kopia?style=social&color=white)](https://github.com/kopia/kopia/stargazers) 🛡️  
+  **Fast and secure open-source backup & sync engine**, Apache-2.0 licensed. Offers end-to-end client-side encryption, deduplication, compression, policy-driven snapshot retention, and both CLI and Desktop GUI interfaces. Supports cloud storage, NAS, and local disks.
 
+- **[BorgBackup](https://github.com/borgbackup/borg)** [![Stars](https://img.shields.io/github/stars/borgbackup/borg?style=social&color=white)](https://github.com/borgbackup/borg/stargazers) 🔐  
+  **Deduplicating archiver with compression and authenticated encryption**, BSD-3-Clause licensed. Deduplicates data based on content-defined chunking. Supports authenticated AES-256 encryption, SSH remote backup repositories, and FUSE mountable archives.
 
+- **[Velero](https://github.com/velero-io/velero)** [![Stars](https://img.shields.io/github/stars/velero-io/velero?style=social&color=white)](https://github.com/velero-io/velero/stargazers) ☸️  
+  **Kubernetes cluster backup and disaster recovery**, Apache-2.0 licensed. Backs up cluster state resources and persistent storage volumes across AWS, Azure, GCP, and on-premises Kubernetes clusters. Enables application migration and disaster recovery.
 
-- **[Bacula Community](https://github.com/bacula/bacula)** [![Stars](https://img.shields.io/github/stars/bacula/bacula?style=social&color=white)](https://github.com/bacula/bacula/stargazers)  
+- **[Backrest](https://github.com/garethgeorge/backrest)** [![Stars](https://img.shields.io/github/stars/garethgeorge/backrest?style=social&color=white)](https://github.com/garethgeorge/backrest/stargazers) 🖥️  
+  **Web UI and orchestrator for restic backup**, GPL-3.0 licensed. Provides a modern web dashboard for scheduling, managing repositories, reviewing backup history, and monitoring restic snapshots across multiple machines.
 
-  **The most widely deployed open-source network backup platform**, AGPL-3.0 licensed. **One of the largest open-source backup projects worldwide** . File-based backup via agents installed on systems. Scales from small installations to large distributed IT environments. Bacula Systems provides commercial Enterprise Edition with additional features and support . 💾
+- **[Spatie Laravel-Backup](https://github.com/spatie/laravel-backup)** [![Stars](https://img.shields.io/github/stars/spatie/laravel-backup?style=social&color=white)](https://github.com/spatie/laravel-backup/stargazers) 📦  
+  **Database and application backup tool for Laravel**, MIT licensed. Automatically creates zip archives of application files and database dumps, storing them across multiple cloud providers with automated cleanup and health notifications.
 
+- **[Zalando Postgres Operator](https://github.com/zalando/postgres-operator)** [![Stars](https://img.shields.io/github/stars/zalando/postgres-operator?style=social&color=white)](https://github.com/zalando/postgres-operator/stargazers) 🐘  
+  **PostgreSQL disaster recovery and high availability on Kubernetes**, MIT licensed. Manages automated continuous database backups to S3-compatible cloud storage, write-ahead logging (WAL) archiving, and point-in-time recovery (PITR).
 
+- **[WAL-G](https://github.com/wal-g/wal-g)** [![Stars](https://img.shields.io/github/stars/wal-g/wal-g?style=social&color=white)](https://github.com/wal-g/wal-g/stargazers) 💾  
+  **Archiving and restore tool for PostgreSQL, MySQL, and MariaDB**, Apache-2.0 licensed. Successor to WAL-E written in Go. Features multi-core LZ4/snappy compression, delta backups, parallel S3 uploads, and low overhead PITR recovery.
 
-- **[BorgBackup](https://github.com/borgbackup/borg)** [![Stars](https://img.shields.io/github/stars/borgbackup/borg?style=social&color=white)](https://github.com/borgbackup/borg/stargazers)  
+- **[Vorta](https://github.com/borgbase/vorta)** [![Stars](https://img.shields.io/github/stars/borgbase/vorta?style=social&color=white)](https://github.com/borgbase/vorta/stargazers) 🖥️  
+  **Desktop backup client for BorgBackup on macOS and Linux**, GPL-3.0 licensed. Integrates BorgBackup into desktop notification environments with profile management, scheduled background snapshots, and one-click file restoration.
 
-  **Deduplicating archiver with compression and encryption**, BSD-3-Clause licensed. Efficient deduplication and compression. Encrypted, authenticated backups. Mountable archives via FUSE. Supports remote repositories over SSH. **The foundation for Vorta desktop client** and BorgBase hosting service . 🔐
+- **[Bareos](https://github.com/bareos/bareos)** [![Stars](https://img.shields.io/github/stars/bareos/bareos?style=social&color=white)](https://github.com/bareos/bareos/stargazers) 📦  
+  **Cross-network open-source backup software**, AGPL-3.0 licensed. Fork of Bacula providing client-server network backups, encryption, LTO tape library support, cloud storage backends, and web UI administration.
 
+- **[nxs-backup](https://github.com/nixys/nxs-backup)** [![Stars](https://img.shields.io/github/stars/nixys/nxs-backup?style=social&color=white)](https://github.com/nixys/nxs-backup/stargazers) 🛠️  
+  **Automated backup rotation and delivery tool**, Apache-2.0 licensed. Supports MySQL, PostgreSQL, MongoDB, Redis, and ClickHouse database backups with S3/SFTP storage delivery, resource rate limiting, and Webhook/Prometheus alerts.
 
-
-- **[Vorta](https://github.com/borgbase/vorta)** [![Stars](https://img.shields.io/github/stars/borgbase/vorta?style=social&color=white)](https://github.com/borgbase/vorta/stargazers)  
-
-  **Desktop backup client for BorgBackup on macOS and Linux**, GPL-3.0 licensed. **Integrates BorgBackup with desktop environments** to protect data from disk failure, ransomware, and theft . Encrypted, deduplicated, and compressed backups. **No vendor lock-in** — back up to local drives, your own server, or BorgBase. Flexible profiles group source folders, destinations, and schedules. One place to view all point-in-time archives and restore individual files . 🖥️
-
-
-
-- **[nxs-backup](https://github.com/nixys/nxs-backup)** [![Stars](https://img.shields.io/github/stars/nixys/nxs-backup?style=social&color=white)](https://github.com/nixys/nxs-backup/stargazers)  
-
-  **Tool for creating and delivering backups with rotation**, open-source. **Compatible with GNU/Linux distributions** . **Full data backup and incremental file backups**. Database support: MySQL/Percona, MariaDB, PostgreSQL, MongoDB, Redis, ClickHouse (experimental) . **Remote storage targets**: S3 (AWS, GCP), SSH/SFTP, FTP, CIFS/SMB, NFS, WebDAV. Prometheus-compatible metrics export. Resource consumption limiting (CPU, disk rate, remote storage rate). Email and webhook notifications. Docker Compose and Kubernetes Helm chart deployment . 🛠️
-
-
-
-- **[Restic](https://github.com/restic/restic)** [![Stars](https://img.shields.io/github/stars/restic/restic?style=social&color=white)](https://github.com/restic/restic/stargazers)  
-
-  **Fast, secure, efficient backup program**, BSD-2-Clause licensed. Single binary with no dependencies. Supports many storage backends (S3, GCS, Azure, B2, SFTP, REST, local). Deduplication, encryption, and incremental snapshots. Written in Go. ⚡
-
-
-
-- **[Kopia](https://github.com/kopia/kopia)** [![Stars](https://img.shields.io/github/stars/kopia/kopia?style=social&color=white)](https://github.com/kopia/kopia/stargazers)  
-
-  **Fast and secure backup/sync tool**, Apache-2.0 licensed. Client-side end-to-end encryption, deduplication, and compression. Supports cloud, NAS, and local storage. Snapshot-based with policy-driven retention. 🛡️
-
-
-
-- **[Duplicati](https://github.com/duplicati/duplicati)** [![Stars](https://img.shields.io/github/stars/duplicati/duplicati?style=social&color=white)](https://github.com/duplicati/duplicati/stargazers)  
-
-  **Encrypted backup to cloud storage**, LGPL-2.1 licensed. Stores encrypted, incremental, compressed backups to 20+ cloud providers. AES-256 encryption, scheduled backups, and a web-based UI. 🔒
-
-
-
-- **[UrBackup](https://github.com/uroni/urbackup-server)** [![Stars](https://img.shields.io/github/stars/uroni/urbackup-server?style=social&color=white)](https://github.com/uroni/urbackup-server/stargazers)  
-
-  **Client/server backup system**, AGPL-3.0 licensed. **Image and file backups for Windows, Linux, and macOS**. Incremental backups with block-level deduplication. Web interface for management and monitoring. 📦
-
-
-
-- **[Duplicity](https://github.com/duplicity/duplicity)** [![Stars](https://img.shields.io/github/stars/duplicity/duplicity?style=social&color=white)](https://github.com/duplicity/duplicity/stargazers)  
-
-  **Encrypted bandwidth-efficient backup**, GPL-2.0 licensed. Uses rsync algorithm to send only differences. GPG encryption. Supports S3, GCS, Azure, FTP, SSH, and more. 🔄
-
-
-
-- **[rclone](https://github.com/rclone/rclone)** [![Stars](https://img.shields.io/github/stars/rclone/rclone?style=social&color=white)](https://github.com/rclone/rclone/stargazers)  
-
-  **The Swiss army knife of cloud storage sync**, MIT licensed. Supports 70+ cloud storage providers with a unified CLI. Sync, copy, move, mount, and serve capabilities. Bandwidth limiting, checksum verification, and incremental transfers. **Often used as the transfer engine for backup workflows**. 🔗
-
-
-
-- **[Velero](https://github.com/vmware-tanzu/velero)** [![Stars](https://img.shields.io/github/stars/vmware-tanzu/velero?style=social&color=white)](https://github.com/vmware-tanzu/velero/stargazers)  
-
-  **Kubernetes backup and migration**, Apache-2.0 licensed. Backs up cluster resources and persistent volumes. Disaster recovery for Kubernetes. Supports AWS, Azure, GCP, and on-premises. ☸️
-
-
-
-- **[Zalando Postgres Operator](https://github.com/zalando/postgres-operator)** [![Stars](https://img.shields.io/github/stars/zalando/postgres-operator?style=social&color=white)](https://github.com/zalando/postgres-operator/stargazers)  
-
-  **PostgreSQL backup and recovery on Kubernetes**, MIT licensed. Automated backups to S3-compatible storage. Point-in-time recovery. WAL archiving and retention policies. 🐘
-
-
-
-- **[tigerbeetle](https://github.com/tigerbeetle/tigerbeetle)** [![Stars](https://img.shields.io/github/stars/tigerbeetle/tigerbeetle?style=social&color=white)](https://github.com/tigerbeetle/tigerbeetle/stargazers)  
-
-  **Financial accounting database with built-in replication**, Apache-2.0 licensed. While not a traditional backup tool, provides **fault-tolerant data persistence** for financial systems where data integrity is paramount. 🐯
-
-
+- **[Bacula Web](https://github.com/bacula-web/bacula-web)** [![Stars](https://img.shields.io/github/stars/bacula-web/bacula-web?style=social&color=white)](https://github.com/bacula-web/bacula-web/stargazers) 📊  
+  **Open-source reporting and monitoring console for Bacula**, GPL-2.0 licensed. Provides a Web dashboard to monitor Bacula backup job statuses, pool capacities, volumes, and backup metrics.
 
 ---
-
-
 
 ## 🛠️ How to Contribute
 
+Contributions are warmly welcomed! 🤝 Follow these guidelines when submitting new cloud backup solutions or open-source software:
 
-
-Contributions are welcome! Follow these steps to submit new centralized cloud backup platforms or open-source backup software:
-
-
-
-1. 🍴 **Fork** the repository.
-
-2. 📝 **Add/edit** entries in `README.md` maintaining table/list structure and formatting.
-
-3. 🔗 Include project title, official website/GitHub link, exact Stars_Count, license, and brief description.
-
-4. 🚀 Submit a **Pull Request** with a descriptive summary of your changes.
-
-
+1. 🍴 **Fork** this repository.
+2. 📝 **Add or update** entries in `README.md` following the exact table/list structure and formatting rules.
+3. 🔗 Include official vendor links, exact pricing numbers, free trial/tier specifications, and valid GitHub repository badges linked to `/stargazers`.
+4. 🚀 Open a **Pull Request** detailing your additions.
 
 ---
 
-
-
-## 📊 Star History
-
-
+## ⭐ Star History
 
 [![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Centralized-Cloud-Backup-Recovery&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Centralized-Cloud-Backup-Recovery&type=date&legend=top-left)
 
-
-
 ---
-
-
 
 ## 🤝 Support & Sponsorship
 
+If this curated directory has helped you evaluate backup platforms or safeguard enterprise infrastructure, please consider supporting the project:
 
-
-If you find this centralized cloud backup and recovery repository useful, please consider supporting the project:
-
-
-
-- ⭐ **Star** this repository to increase visibility!
-
-- 🔀 **Fork** and share with fellow IT administrators, DevOps engineers, and open-source advocates.
-
-- ☕ **Sponsor & Buy Me a Coffee**: Support ongoing open-source curation via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
-
-
+- ⭐ **Star this repository** to improve discoverability across GitHub!
+- 🔀 **Fork & share** with system administrators, DevOps engineers, and cloud architects.
+- ☕ **Sponsor & Buy Me a Coffee**: Support ongoing open-source research and maintenance via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
 
 ---
-
-
 
 ## ⚠️ Disclaimer
 
-
-
-- This is a **community-curated** list — not exhaustive and not an endorsement. ℹ️
-
-- **Bacula Community vs Enterprise**: The Community Edition is AGPLv3-licensed and free, but lacks deduplication, agentless snapshot backup, multi-cloud targets, and professional support available in Bacula Enterprise .
-
-- **HYCU storage costs**: The $4/user/month price is **software only**. You carry your own cloud storage bill, egress fees, and residency decisions because HYCU writes to storage you own .
-
-- **Druva billing complexity**: Charges are based on deduplicated data stored, not raw source size. Dedupe efficiency, change rate, and retention period drive the bill more than headcount . Egress fees can add 5–15% to total cost for restore-heavy environments .
-
-- **Clumio archive tier**: The $0.01/GiB-month archive pricing carries a **6-month minimum retention** with early-deletion fees and 24–48 hour restore times .
-
-- Open-source backup tools (Bacula, BorgBackup, nxs-backup) provide self-hosted ownership and transparency, but enterprise-grade SLA guarantees, 24/7 support, and managed infrastructure remain primarily commercial offerings. **Always test restore procedures before relying on any backup system**. 🛡️
-
-
+- This directory is **community-curated** for informational purposes — it does not constitute an endorsement or financial advice. ℹ️
+- **Pricing & Tier Accuracy**: Cloud storage rates, egress pricing, and SaaS licensing change frequently. Always verify current vendor quotes before purchasing.
+- **Storage & Egress Fees**: Solutions like HYCU and Druva write data to cloud storage targets where network egress or API operation charges may apply during large restore operations.
+- **Restore Testing**: Having a backup engine is only half the battle. **Regularly execute automated disaster recovery restore drills** to verify backup integrity and Recovery Time Objectives (RTO). 🛡️
 
 ---
 
-
-
 <p align="center">
-
   <b>Made with ❤️ for IT administrators, DevOps engineers, and open-source data protection advocates.</b>
-
 </p>
