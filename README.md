@@ -62,7 +62,7 @@ Whether evaluating enterprise SaaS vendors (such as *Rubrik*, *Veeam*, *Commvaul
 
 ## 🔓 Open-Source GitHub Backup Projects
 
-*Sorted by GitHub Star Count (Descending)* ⭐
+*Sorted by GitHub Stars_Count (Descending)* ⭐
 
 - **[rclone](https://github.com/rclone/rclone)** [![Stars](https://img.shields.io/github/stars/rclone/rclone?style=social&color=white)](https://github.com/rclone/rclone/stargazers) 🌐  
   **The Swiss Army knife of cloud storage sync**, MIT licensed. Command-line program to manage files on 70+ cloud storage providers (S3, Google Drive, OneDrive, B2, SFTP). Features bandwidth throttling, client-side encryption, chunked streaming, and mount capabilities. Frequently serves as the underlying transfer engine for custom backup scripts.
